@@ -99,6 +99,7 @@ mendukung operasi penggabungan
 
  ![22](https://user-images.githubusercontent.com/70943455/108010940-a09c2800-7038-11eb-922a-0985ee03791c.png)
  
+ 
 Dapat merubah isi (replace)
 
  ’![23](https://user-images.githubusercontent.com/70943455/108010942-a134be80-7038-11eb-8feb-682983cbcaae.png)
