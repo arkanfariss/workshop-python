@@ -1,4 +1,5 @@
 1.	Instalasi Python
+
 Mendownload lewat web python
 
  ![1](https://user-images.githubusercontent.com/70943455/108010899-9712c000-7038-11eb-8e08-60c5e388f854.jpg)
@@ -16,20 +17,27 @@ Interface python
  ![4](https://user-images.githubusercontent.com/70943455/108010907-99751a00-7038-11eb-8d7a-fac5551fa234.png)
 
 2.	Python Interpreter
+
 Tanda >>>, artinya python siap menerima perintah
+
 Tanda ... yang berarti secondary prompt atau sub prompt yang muncul saat menulis perintah yang belum selesai seperti contoh berikut
 
  ![5](https://user-images.githubusercontent.com/70943455/108010908-9a0db080-7038-11eb-87e6-6e4d0a6c35fa.png)
 
 3. Introduction Python
+
 3.1 Menggunakan python sebagai kalkulator
+
 3.1.1 penggunaan angka
+
 Menjalankan dengan operator +, -, *, /
 
  ![6](https://user-images.githubusercontent.com/70943455/108010909-9a0db080-7038-11eb-8038-fbb64a32cf0b.png)
 
 Division (/) selalu mengembalikan float. 
+
 Untuk melakukan pembagian dan mendapatkan hasil integer (membuang hasil pecaha) dapat menggunakan // operator; 
+
 untuk menghitung sisanya, Anda dapat menggunakan %
 
  ![7](https://user-images.githubusercontent.com/70943455/108010910-9aa64700-7038-11eb-85aa-c823dc96c8d4.png)
@@ -55,6 +63,7 @@ ekspresi hasil terakhir diberikan ke variabel _
  ![12](https://user-images.githubusercontent.com/70943455/108010922-9c700a80-7038-11eb-8bc0-c3849723a3ed.png)
 
 3.1.2 penggunaan string
+
 Deklarasi string (‘…’) dan bisa juga (“…”)
 
  ![13](https://user-images.githubusercontent.com/70943455/108010924-9d08a100-7038-11eb-9a57-a64c15f78aa7.png)
@@ -63,6 +72,7 @@ Deklarasi string (‘…’) dan bisa juga (“…”)
 
 ![15](https://user-images.githubusercontent.com/70943455/108010927-9e39ce00-7038-11eb-82e0-59ce7d250683.png)
  
+ 
 Menggabungkan string
 
  ![16](https://user-images.githubusercontent.com/70943455/108010930-9e39ce00-7038-11eb-8c78-c0b2d0964321.png)
@@ -80,6 +90,7 @@ Fungsi built-in len() menghitung panjang string
  ![20](https://user-images.githubusercontent.com/70943455/108010936-a0039180-7038-11eb-843b-c27873780dfd.png)
 
 3.1.3 penggunaan list (daftar)
+
 list dapat diindekan dan dislices
 
  ![21](https://user-images.githubusercontent.com/70943455/108010939-a0039180-7038-11eb-9a2d-26dc8187ce84.png)
@@ -107,6 +118,7 @@ Dapat untuk menumpuk list (membuat list yang berisi list lain)
  ![27](https://user-images.githubusercontent.com/70943455/108010953-a265eb80-7038-11eb-9ca6-a61d6549bbd9.png)
 
 3.2 langkah pertama pemrograman
+
 Melakukan perulangan dengan nilai yang ditentukan
 
  ![28](https://user-images.githubusercontent.com/70943455/108010955-a2fe8200-7038-11eb-9b38-cf901aa4e96a.png)
