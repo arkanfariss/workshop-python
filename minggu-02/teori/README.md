@@ -1,5 +1,7 @@
 BAB 4
 
+source code program python dibawah ada pada link berikut : https://github.com/arkanfrs/workshop-python/tree/master/minggu-02/src
+
 4. Pengendali Aliran Program
 
 4.1 perintah if
