@@ -19,7 +19,7 @@ Melakukan import fibonacci
 Modul sys dibangun ke dalam setiap interpreter di Python. Variabel sys.ps1 dan sys.ps2 menentukan string yang digunakan sebagai prompt primer dan sekunder. Variabel sys.path adalah daftar string yang menentukan jalur pencarian interpreter untuk modul.
 
 ![3](https://user-images.githubusercontent.com/70943455/110133412-ddb93600-7dfe-11eb-9b9d-6f5680a0c0ab.png)
- 
+
 6.3. Fungsi dir()
 
 Fungsi dir() digunakan untuk mencari tahu nama-nama yang ditentukan oleh modul. dir(builtins) menambah output berupa nama fungsi dan variabel bawaan
