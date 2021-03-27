@@ -57,6 +57,7 @@ Daftar tricks dalam kode berikut tidak boleh digunakan sebagai variabel kelas ka
 ![6](https://user-images.githubusercontent.com/70943455/112710757-217ef700-8ef6-11eb-963d-1f331fe4c328.png)
 
 Desain kelas yang benar harus menggunakan variabel instance
+
 ![7](https://user-images.githubusercontent.com/70943455/112710758-22178d80-8ef6-11eb-9dab-0f605bde35b2.png)
 
 9.4. Keterangan Acak
