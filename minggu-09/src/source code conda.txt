@@ -1,0 +1,29 @@
+conda --version
+
+conda update conda
+
+conda create --name snowflakes biopython
+
+conda activate snowflakes
+
+conda info --envs
+
+conda activate
+
+conda create --name snakes python=3.5
+
+conda activate snakes
+
+conda info --envs
+
+python --version
+
+conda activate
+
+conda activate snowflakes
+
+conda search beautifulsoup4
+
+conda install beautifulsoup4
+
+conda list
