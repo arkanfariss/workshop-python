@@ -1,0 +1,6 @@
+pip install psycopg2-binary
+CREATE DATABASE bank;
+CREATE USER python WITH PASSWORD test;
+GRANT ALL ON DATABASE bank TO python;
+curl -O https://raw.githubusercontent.com/cockroachlabs/hello-world-python-psycopg2/master/example.py
+python3 example.py 'postgresql://python:test@127.0.0.1:<port>/bank?sslmode=require'
